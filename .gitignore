@@ -22,3 +22,9 @@ logs
 .env
 .env.*
 !.env.example
+
+# IDE files
+.vscode
+
+# Formatting
+.prettierrc
