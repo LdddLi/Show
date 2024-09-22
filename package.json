@@ -11,18 +11,20 @@
   },
   "dependencies": {
     "nuxt": "^3.13.0",
-    "nuxt-icons": "^3.2.1",
     "vue": "latest",
     "vue-router": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.0",
+    "@nuxtjs/tailwindcss": "^6.12.1",
     "eslint": "^9.11.0",
     "eslint-plugin-vue": "^9.28.0",
     "globals": "^15.9.0",
     "tailwindcss": "^3.4.12",
     "typescript": "^5.6.2",
     "typescript-eslint": "^8.6.0",
+    "unplugin-icons": "^0.19.3",
+    "unplugin-vue-components": "^0.27.4",
     "vue-tsc": "^2.1.6"
   }
 }
